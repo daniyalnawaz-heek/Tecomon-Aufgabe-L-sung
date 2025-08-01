@@ -1,6 +1,9 @@
 
 
 ---
+Frontend :
+http://localhost:3000
+
 
 ### **Weather Dashboard Documentation**
 
@@ -79,6 +82,9 @@
 ---
 
 ### **Backend Server Documentation**
+
+Backend :
+http://localhost:5001
 
 #### **1. Server Setup**
 - **Framework**: Express.js  
